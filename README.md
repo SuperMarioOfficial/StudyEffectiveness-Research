@@ -21,10 +21,6 @@ All previous methods can be used to create cards to answer them.
 
 ## Space repetition 
 #### [Source](https://youtu.be/Z-zNHHpXoMM)
-![](https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png)
-![](https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/ebbinghaus-diagram.jpg)
-![](https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/Alteration-of-the-forgetting-curve-through-repetition-according-to-Ebbinghaus-1885-and.png)
-
  <img src="https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png" alt="Smiley face" height="300" width="500"> 
   <img src="https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/ebbinghaus-diagram.jpg" alt="Smiley face" height="300" width="500"> 
    <img src="https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/Alteration-of-the-forgetting-curve-through-repetition-according-to-Ebbinghaus-1885-and.png" alt="Smiley face" height="300" width="500"> 
