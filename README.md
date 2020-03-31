@@ -73,16 +73,16 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
   - This sequence is for ***1 block*** of study. s1=50m, s1r=30m, s1e=50m
      - [scope 1]
      - 1) [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
-     -  ------------ Repeat it the next evening 24h --------------
+     -  ------------ ***Repeat it the next evening 24h*** --------------
      - 2) [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
-     -  --------------------Skip 1 day and [scope 2] ------------- 
+     -  ------------------- ***Skip 1 day and [scope 2]*** ------------- 
      - 3) [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
-     -  --------- Skip 2 days and do [1] and [2] of the other subject ------- 
+     -  --------- ***Skip 2 days and do [1] and [2] of the other subject*** ------- 
      - 4) [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
-     -  ---------For the 2nd subject Do point [3] and [4] --------
+     -  --------- ***For the 2nd subject Do point [3] and [4]*** --------
      -  ---------------------- Skip 22 days ---------------------- 
      - [s1r] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
-      -  ------------ Repeat subject 2 the next evening ---------- 
+      -  ------------ ***Repeat subject 2 the next evening*** ---------- 
      - [s1r] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
    
    - at the end of each new evening spend 10 minute thinking about what you learned that day.
