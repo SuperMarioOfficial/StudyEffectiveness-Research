@@ -2,6 +2,7 @@
 ### Active recall [source](https://www.howtostudy.org/blog/?p=461) - Answers previous questions, again and again with more details
 The recall method is the method of training your brain to retrieve informations from your memory in the most efficient way.  
   - Active recall is the idea to force your brain to recall some piece of information effictevely. More often the brain is forced to recall something during the time, stronger it will be the link to that piece of information. In a certain way it can be compared to what backpropagation is in deep-learning. ```Backpropagation is the central mechanism by which neural networks learn. It is the messenger telling the network whether or not the net made a mistake when it made a prediction.``` Therefore, writing down questions and answering them later on force your brain to remember them. 
+![](https://github.com/SuperMarioOfficial/how-to-study-more-effectively/blob/master/main-qimg-2af4e9efa584f1c46758ea56c085e3bf.jfif?raw=true)
 - [How my friend ranked 1st at Medical School - The Active Recall Framework](https://www.youtube.com/watch?v=fDbxPVn02VU)
 - [Overview how to study Cambridge style](https://youtu.be/-46Vyiwat_Y)
 - [Study with Me + Active Recall tips | Life as a Junior Doctor](https://www.youtube.com/watch?v=YHJzSbLiQNs)
