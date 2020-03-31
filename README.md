@@ -21,6 +21,7 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 - [10 Active Reading Strategies // Study Less Study Smart](https://www.youtube.com/watch?v=5j8H3F8EMNI)
 ### How to write Notes 
 ![](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/82315/width668/image-20150520-30501-xrg6gx.png)
+![](https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/ebbinghaus-diagram.jpg)
 - [Cornell Note Taking System](https://www.youtube.com/watch?v=xCCWQkJbtyY)
 - [How better note taking can improve your memory](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
 - [Cornell Notes Method of Taking Notes](https://www.youtube.com/watch?v=lsR-10piMp4)
