@@ -1,5 +1,6 @@
 # Scientific ideas how to improve your efficiency in studying [Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
-## Active recall [source](https://www.howtostudy.org/blog/?p=461) - Answers previous questions, again and again with more details
+## Active recall 
+#### [source](https://www.howtostudy.org/blog/?p=461) - Answers previous questions, again and again with more details
 The recall method is the method of training your brain to retrieve informations from your memory in the most efficient way.  
   - Active recall is the idea to force your brain to recall some piece of information effictevely. More often the brain is forced to recall something during the time, stronger it will be the link to that piece of information. In a certain way it can be compared to what backpropagation is in deep-learning. ```Backpropagation is the central mechanism by which neural networks learn. It is the messenger telling the network whether or not the net made a mistake when it made a prediction.``` Therefore, writing down questions and answering them later on force your brain to remember them. 
 ###  > Active questions creation and answering
@@ -18,7 +19,8 @@ All previous methods can be used to create cards to answer them.
 - [How I Study at Cambridge University | ACTIVE RECALL](https://www.youtube.com/watch?v=We5WM-tg_mE)
 - [How I Study For Exams in Medical School Active Recall Study Strategies](https://www.youtube.com/watch?v=YhvZqXLBH_o)
 
-## Space repetition [Source](https://youtu.be/Z-zNHHpXoMM)
+## Space repetition 
+#### [Source](https://youtu.be/Z-zNHHpXoMM)
 ![](https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png)
 The rate of forgetting is minimised if students interact (re-read/discuss/write/engage) with their notes within 24 hours. A second repetition for a shorter period of time within a day brings recall back up to 100%. A third repetition within a week for an even shorter time brings recall back to 100%.
    - Space repetition is the idea that spacing your active recall sessions your brain will implant that memories in the long-term memory side of your brain. A simple way to do it is to give two or three days distance between each topic and then try to answer again to the same questions you answered on day one.
