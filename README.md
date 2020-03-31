@@ -72,17 +72,21 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
     - use colors to determine which topic is easier and which is worst
   - This sequence is for ***1 block*** of study. s1=50m, s1r=30m, s1e=50m
      - [scope 1]
-     - [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
-     - [Break 24h]
-     - [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
-     - [Break 2d]
-     - [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
-     - [Break 3d]
-     - [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
-     - [Break 3w]
-        - before starting the new block you need to do [s1r] and [s2r] and [s3r], then after this you will start a new block for all 3/2 subjects. After 3 days or the finish of the block you revise all 3/2 previous topics and test what you remember. 
-        - study session: 50 min, revision session: 15 min
-        - at the end of each new session spend 10 minute thinking about the subject, then try to fastly recall without chekcing notes the previous chapter in bullet points or groups
+     - 1 [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
+     - [ ------------ Repeat it the next evening 24h ---------- ]
+     - 2 [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
+     - [ --------------------Skip 1 day and [scope 2] ------  ]
+     - 3 [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
+     - [ --------- Skip 2 days and do [1] and [2] of the other subject ------- ]
+     - 4 [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
+     - [ ---------For the 2nd subject Do point [3] and [4] ---------------------- ]
+     - [ ---------------------- Skip 22 days ---------------------- ]
+     - [s1r] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
+      - [ ------------ Repeat subject 2 the next evening ---------- ]
+     - [s1r] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
+   
+   - at the end of each new evening spend 10 minute thinking about what you learned that day.
+   
 
  - ***revision***
    - start from the last chapter and move backwards 
