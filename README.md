@@ -22,6 +22,7 @@ All previous methods can be used to create cards to answer them.
 ## Space repetition 
 #### [Source](https://youtu.be/Z-zNHHpXoMM)
 ![](https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png)
+![](https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/ebbinghaus-diagram.jpg)
 The rate of forgetting is minimised if students interact (re-read/discuss/write/engage) with their notes within 24 hours. A second repetition for a shorter period of time within a day brings recall back up to 100%. A third repetition within a week for an even shorter time brings recall back to 100%.
    - Space repetition is the idea that spacing your active recall sessions your brain will implant that memories in the long-term memory side of your brain. A simple way to do it is to give two or three days distance between each topic and then try to answer again to the same questions you answered on day one.
    - ***Longer delay between initial learning and recalling facts was associated with poorer retention rate.***
@@ -36,7 +37,6 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 
 ## How to write Notes 
 ![](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/82315/width668/image-20150520-30501-xrg6gx.png)
-![](https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/ebbinghaus-diagram.jpg)
 - [Cornell Note Taking System](https://www.youtube.com/watch?v=xCCWQkJbtyY)
 - [How better note taking can improve your memory](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
 - [Cornell Notes Method of Taking Notes](https://www.youtube.com/watch?v=lsR-10piMp4)
