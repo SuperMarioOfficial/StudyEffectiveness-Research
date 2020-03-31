@@ -79,8 +79,8 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
      - 3) [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
      -  --------- ***Skip 2 days and do [1] and [2] of the other subject*** ------- 
      - 4) [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
-     -  --------- ***Next evening, Do point [3] and [4] second subject *** --------
-     -  ---------------------- *** Skip 22 days *** ---------------------- 
+     -  --------- ***Next evening, Do point [3] and [4] second subject*** --------
+     -  ---------------------- ***Skip 22 days*** ---------------------- 
      - [s1r] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
       -  ------------ ***Repeat subject 2 the next evening*** ---------- 
      - [s1r] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
