@@ -23,6 +23,11 @@ All previous methods can be used to create cards to answer them.
 #### [Source](https://youtu.be/Z-zNHHpXoMM)
 ![](https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png)
 ![](https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/ebbinghaus-diagram.jpg)
+![](https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/Alteration-of-the-forgetting-curve-through-repetition-according-to-Ebbinghaus-1885-and.png)
+
+ <img src="https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png" alt="Smiley face" height="300" width="500"> 
+  <img src="https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/ebbinghaus-diagram.jpg" alt="Smiley face" height="300" width="500"> 
+   <img src="https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/Alteration-of-the-forgetting-curve-through-repetition-according-to-Ebbinghaus-1885-and.png" alt="Smiley face" height="300" width="500"> 
 The rate of forgetting is minimised if students interact (re-read/discuss/write/engage) with their notes within 24 hours. A second repetition for a shorter period of time within a day brings recall back up to 100%. A third repetition within a week for an even shorter time brings recall back to 100%.
    - Space repetition is the idea that spacing your active recall sessions your brain will implant that memories in the long-term memory side of your brain. A simple way to do it is to give two or three days distance between each topic and then try to answer again to the same questions you answered on day one.
    - ***Longer delay between initial learning and recalling facts was associated with poorer retention rate.***
