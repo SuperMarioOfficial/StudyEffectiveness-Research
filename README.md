@@ -70,19 +70,16 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 - ***space repetition*** [source](https://www.youtube.com/watch?v=k5A26Sc63F0)
   - create a spreadhsheet: topic, date repetition 1, date repetition 2, ...
     - use colors to determine which topic is easier and which is worst
-  - use this sequence for 3 subjects: 
-    - [scope 1] -> [scope 2] -> [scope 3]
-    - [s1] -> [s2] -> [s1r] -> [s3] -> [s2r] -> [s3r] | Place s1 at the bottom of the stack for tomorrow. 
-    - [s1r] -> [s2] -> [s3] -> [s2r] -> [s1] -> [s3r] -> [s1r] | Place s2 at the bottom of the stack for tomorrow. 
-    - [s2r] -> [s3] -> [s1] -> [s3r] -> [s2] -> [s1r] -> [s2r] | Place s3 at the bottom of the stack for tomorrow.
-  - use this sequence for 2 subjects:
-     - [scope 1] -> [scope 2]
-     - [s1] -> [Break 15 min] -> [s1r] -> [s2] -> [Break 15 min] -> [s2r] -> [s1e] -> [s2e]
-     - [s1r] -> [s2] -> [Break 15 min] -> [s2r] -> [s1]  -> [Break 15 min] -> [s1r] -> [s1e] -> [s2e] 
-  - use this seuqnece for 1 subject:
+  - This sequence is for ***1 block*** of study. s1=50m, s1r=30m, s1e=50m
      - [scope 1]
-     - [s1] -> [Break 15 min] -> [s1r] -> [Break 15 min] -> [s1e]
-     - [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 15 min] -> [s1e]
+     - [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
+     - [Break 24h]
+     - [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
+     - [Break 2d]
+     - [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
+     - [Break 3d]
+     - [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
+     - [Break 3w]
         - before starting the new block you need to do [s1r] and [s2r] and [s3r], then after this you will start a new block for all 3/2 subjects. After 3 days or the finish of the block you revise all 3/2 previous topics and test what you remember. 
         - study session: 50 min, revision session: 15 min
         - at the end of each new session spend 10 minute thinking about the subject, then try to fastly recall without chekcing notes the previous chapter in bullet points or groups
