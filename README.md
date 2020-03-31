@@ -2,13 +2,13 @@
 ## Active recall [source](https://www.howtostudy.org/blog/?p=461) - Answers previous questions, again and again with more details
 The recall method is the method of training your brain to retrieve informations from your memory in the most efficient way.  
   - Active recall is the idea to force your brain to recall some piece of information effictevely. More often the brain is forced to recall something during the time, stronger it will be the link to that piece of information. In a certain way it can be compared to what backpropagation is in deep-learning. ```Backpropagation is the central mechanism by which neural networks learn. It is the messenger telling the network whether or not the net made a mistake when it made a prediction.``` Therefore, writing down questions and answering them later on force your brain to remember them. 
-### Active questions creation and answering
+###  > Active questions creation and answering
 Use [Cornell Notes Method of Taking Notes](https://www.youtube.com/watch?v=lsR-10piMp4) and create many questions, then in revision answer those questions. 
-### Passive questions answering
+###  > Passive questions answering
 Save questions from the book and slides and answer them.
-### Explain to "someone"
+###  > Explain to "someone"
 ![](https://github.com/SuperMarioOfficial/how-to-study-more-effectively/blob/master/main-qimg-2af4e9efa584f1c46758ea56c085e3bf.jfif?raw=true)
-### Flash cards Anki
+###  > Flash cards Anki
 All previous methods can be used to create cards to answer them.
 
 #### Sources
@@ -24,12 +24,14 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
    - Space repetition is the idea that spacing your active recall sessions your brain will implant that memories in the long-term memory side of your brain. A simple way to do it is to give two or three days distance between each topic and then try to answer again to the same questions you answered on day one.
    - ***Longer delay between initial learning and recalling facts was associated with poorer retention rate.***
    - ***In a final test 1 week later, the group that learned at expanding time intervals performed significantly better than the group learning with steady intervals***  
-#### Revision at the end of each session
+    
+## Revision
 - [My Study Method + Revision Tools - Cambridge junior doctor](https://www.youtube.com/watch?v=EfBczKGbGwA)
 - [How To Revise | Scientifically Proven Revision Techniques (for English, History, Law and more)](https://www.youtube.com/watch?v=xTkpr5bkzPw)
 
 ## Reading 
 - [10 Active Reading Strategies // Study Less Study Smart](https://www.youtube.com/watch?v=5j8H3F8EMNI)
+
 ## How to write Notes 
 ![](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/82315/width668/image-20150520-30501-xrg6gx.png)
 ![](https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/ebbinghaus-diagram.jpg)
