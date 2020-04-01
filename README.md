@@ -70,20 +70,17 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 - ***space repetition*** [source](https://www.youtube.com/watch?v=k5A26Sc63F0)
   - create a spreadhsheet: topic, date repetition 1, date repetition 2, ...
     - use colors to determine which topic is easier and which is worst
-  - This sequence is for ***1 block*** of study. s1=50m, s1r=30m, s1e=50m
-     - [scope 1]
-     - 1) [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
-     -  ------------ ***Repeat it the next evening 24h*** --------------
-     - 2) [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
-     -  ------------------- ***Skip 1 day and [scope 2]*** ------------- 
-     - 3) [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
-     -  --------- ***Skip 2 days and do [1] and [2] of the other subject*** ------- 
-     - 4) [s1r] -> [Break 15 min] -> [s1] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
-     -  --------- ***Next evening, Do point [3] and [4] second subject*** --------
-     -  ---------------------- ***Skip 22 days*** ---------------------- 
-     - [s1r] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
-      -  ------------ ***Repeat subject 2 the next evening*** ---------- 
-     - [s1r] -> [Break 15 min] -> [s1r] -> [Break 30 m] -> [s1e] -> [Break 1 h 30m] -> [s1r]
+  - This sequence is for ***1 block*** of study.(study block b1=50m), (block-revision b1r=30m), (block-exercises b1e=50m)
+     - First day
+        -  [b1] -> [Break 15 min] -> [b1r] -> [Break 30 m] -> [b1e] -> [Break 1 h 30m] -> [b1r]
+     -  ------------------- ***Recall it the next evening*** ------------------
+        - [b1r] -> [Break 15 min] -> [b1e]
+     -  ------------------- ***Skip 1 day*** ---------------------------------- 
+        - [b1r] -> [Break 15 min] -> [b1e]
+     -  ------------------- ***Skip 2 days*** --------------------------------- 
+        - [b1r] -> [Break 15 min] -> [b1e]
+     -  ------------------- ***Skip 22 days*** -------------------------------- 
+        - [b1r] -> [Break 15 min] -> [b1e]
    
    - at the end of each new evening spend 10 minute thinking about what you learned that day.
    
