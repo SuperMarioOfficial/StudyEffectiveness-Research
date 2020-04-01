@@ -70,17 +70,17 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 - ***space repetition*** [source](https://www.youtube.com/watch?v=k5A26Sc63F0)
   - create a spreadhsheet: topic, date repetition 1, date repetition 2, ...
     - use colors to determine which topic is easier and which is worst
-  - This sequence is for ***1 block*** of study.(study block b1=50m), (block-revision b1r=30m), (block-exercises b1e=50m)
+  - This sequence is for ***1 block == 1 slide*** of study.(study block b1=50m), (block-revision b1r=30m), (block-exercises b1e=50m)
      - First day
         -  [b1] -> [Break 15 min] -> [b1r] -> [Break 30 m] -> [b1e] -> [Break 1 h 30m] -> [b1r]
      -  ------------------- ***Recall it the next evening*** ------------------
-        - [b1r] -> [Break 15 min] -> [b1e]
+        - [b1r] -> [Break 15 min] -> [b1e] -> [Break 45 m] -> [explain each topic to "people"]
      -  ------------------- ***Skip 1 day*** ---------------------------------- 
-        - [b1r] -> [Break 15 min] -> [b1e]
+        - [b1r] -> [Break 15 min] -> [b1e]  -> [Break 45 m] -> [explain each topic to "people"]
      -  ------------------- ***Skip 2 days*** --------------------------------- 
-        - [b1r] -> [Break 15 min] -> [b1e]
+        - [b1r] -> [Break 15 min] -> [b1e]  -> [Break 45 m] -> [explain each topic to "people"]
      -  ------------------- ***Skip 22 days*** -------------------------------- 
-        - [b1r] -> [Break 15 min] -> [b1e]
+        - [b1r] -> [Break 15 min] -> [b1e]  -> [Break 45 m] -> [explain each topic to "people"]
    
    - at the end of each new evening spend 10 minute thinking about what you learned that day.
    
