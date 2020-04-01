@@ -1,8 +1,8 @@
 # Scientific ideas how to improve your efficiency in studying [Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
 ## Active recall 
-#### [source](https://www.howtostudy.org/blog/?p=461) - Answers previous questions, again and again with more details
 The recall method is the method of training your brain to retrieve informations from your memory in the most efficient way.  
-  - Active recall is the idea to force your brain to recall some piece of information effictevely. More often the brain is forced to recall something during the time, stronger it will be the link to that piece of information. In a certain way it can be compared to what backpropagation is in deep-learning. ```Backpropagation is the central mechanism by which neural networks learn. It is the messenger telling the network whether or not the net made a mistake when it made a prediction.``` Therefore, writing down questions and answering them later on force your brain to remember them. 
+Active recall is the idea to force your brain to recall some piece of information effictevely. More often the brain is forced to recall something during the time, stronger it will be the link to that piece of information. In a certain way it can be compared to what backpropagation is in deep-learning. Therefore, writing down questions and answering them later on force your brain to remember them. 
+  
 ###  > Active questions creation and answering
 Use [Cornell Notes Method of Taking Notes](https://www.youtube.com/watch?v=lsR-10piMp4) and create many questions, then in revision answer those questions. 
 ###  > Passive questions answering
@@ -11,8 +11,8 @@ Save questions from the book and slides and answer them.
 ![](https://github.com/SuperMarioOfficial/how-to-study-more-effectively/blob/master/main-qimg-2af4e9efa584f1c46758ea56c085e3bf.jfif?raw=true)
 ###  > Flash cards Anki
 All previous methods can be used to create cards to answer them.
-
 #### Sources
+- [howtostudy](https://www.howtostudy.org/blog/?p=461) 
 - [How my friend ranked 1st at Medical School - The Active Recall Framework](https://www.youtube.com/watch?v=fDbxPVn02VU)
 - [Overview how to study Cambridge style](https://youtu.be/-46Vyiwat_Y)
 - [Study with Me + Active Recall tips | Life as a Junior Doctor](https://www.youtube.com/watch?v=YHJzSbLiQNs)
@@ -26,8 +26,10 @@ All previous methods can be used to create cards to answer them.
    <img src="https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/Alteration-of-the-forgetting-curve-through-repetition-according-to-Ebbinghaus-1885-and.png" alt="Smiley face" height="300" width="500"> 
 The rate of forgetting is minimised if students interact (re-read/discuss/write/engage) with their notes within 24 hours. A second repetition for a shorter period of time within a day brings recall back up to 100%. A third repetition within a week for an even shorter time brings recall back to 100%.
    - Space repetition is the idea that spacing your active recall sessions your brain will implant that memories in the long-term memory side of your brain. A simple way to do it is to give two or three days distance between each topic and then try to answer again to the same questions you answered on day one.
+ ![](https://www.apa.org/images/2016-06-psa-karpicke-fig1_tcm7-203616_w1024_n.jpg)
    - ***Longer delay between initial learning and recalling facts was associated with poorer retention rate.***
    - ***In a final test 1 week later, the group that learned at expanding time intervals performed significantly better than the group learning with steady intervals***  
+   
     
 ## Revision
 - [My Study Method + Revision Tools - Cambridge junior doctor](https://www.youtube.com/watch?v=EfBczKGbGwA)
@@ -53,7 +55,13 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 - [Science Brief - A powerful way to improve learning and memory](https://www.apa.org/science/about/psa/2016/06/learning-memory)
 - [Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology.](https://www.ncbi.nlm.nih.gov/pubmed/26173288)
 - [Make-Stick-Science-Successful-Learning](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013)
-
+- [Effective Study Techniques](https://www.otago.ac.nz/hedc/otago615340.pdf)
+- [THE JOURNAL OFEDUCATIONAL PSYCHOLOGY VolumeXXXDecember, 1939 Number 9 STUDIES IN RETENTION](https://www.gwern.net/docs/spacedrepetition/1939-spitzer.pdf)
+- [Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology.](https://www.ncbi.nlm.nih.gov/pubmed/26173288)
+- [A powerful way to improve learning and memory](https://www.apa.org/science/about/psa/2016/06/learning-memory)
+- [Test-Enhanced LearningTaking Memory Tests Improves Long-Term Retention](http://learninglab.psych.purdue.edu/downloads/2006_Roediger_Karpicke_PsychSci.pdf)
+- [Test-Enhanced Learning in the Classroom:Long-Term Improvements From Quizzing](https://pages.wustl.edu/files/pages/imce/memory/roediger-et-al-2011-jepa.pdf)
+- [The Value of Applied Research: Retrieval Practice Improves Classroom Learning and Recommendations from a Teacher, a Principal, and a Scientist](https://link.springer.com/article/10.1007/s10648-012-9210-2?shared-article-renderer)
 ## Podcasts
 - [podcast-385-make-stick](https://www.artofmanliness.com/articles/podcast-385-make-stick/)
 
@@ -83,7 +91,7 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
         - [b1r] -> [Break 15 min] -> [b1e]  -> [Break 45 m] -> [explain each topic to "people"]
    
    - at the end of each new evening spend 10 minute thinking about what you learned that day.
-   
+   - [download]() my planner app developped by me.
 
  - ***revision***
    - start from the last chapter and move backwards 
