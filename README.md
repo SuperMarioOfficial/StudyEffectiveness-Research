@@ -53,7 +53,7 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 
  # Study Algorithm
 - ***scoping the subject/topic***: syllabus -> slides -> book chapters 
-  - this ***should not*** take more than 1 hour or done the day beofre the starting of the study-spring
+  - this ***should not*** take more than 1 hour if done the same day or even better if you do it the day before the starting of the study cycle.
   - writing down all words and topic that you do not know the meaning
   - writing down questions about the subject on a piece of paper Cornell style [link 1](https://youtu.be/fDbxPVn02VU?t=38), [link 2](https://www.youtube.com/watch?v=iIyDJK_SAjs&t=268s)
     - usually at the end of the chapters there are a set of questions
