@@ -120,3 +120,4 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 - [Test-Enhanced Learning in the Classroom:Long-Term Improvements From Quizzing](https://pages.wustl.edu/files/pages/imce/memory/roediger-et-al-2011-jepa.pdf)
 - [The Value of Applied Research: Retrieval Practice Improves Classroom Learning and Recommendations from a Teacher, a Principal, and a Scientist](https://link.springer.com/article/10.1007/s10648-012-9210-2?shared-article-renderer)
 - [podcast 385 make stick](https://www.artofmanliness.com/articles/podcast-385-make-stick/)
+- [The Super Mario Effect - Tricking Your Brain into Learning More | Mark Rober | TEDxPenn](https://www.youtube.com/watch?v=9vJRopau0g0)
