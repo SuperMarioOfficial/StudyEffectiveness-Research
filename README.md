@@ -14,7 +14,7 @@ Save questions from the book and slides and answer them.
 ![](https://github.com/SuperMarioOfficial/how-to-study-more-effectively/blob/master/main-qimg-2af4e9efa584f1c46758ea56c085e3bf.jfif?raw=true)
 ###  > Flash cards Anki
 All previous methods can be used to create cards to answer them.
-#### Sources
+#### References
 - [howtostudy](https://www.howtostudy.org/blog/?p=461) 
 - [How my friend ranked 1st at Medical School - The Active Recall Framework](https://www.youtube.com/watch?v=fDbxPVn02VU)
 - [Overview how to study Cambridge style](https://youtu.be/-46Vyiwat_Y)
@@ -22,7 +22,7 @@ All previous methods can be used to create cards to answer them.
 - [How I Study at Cambridge University | ACTIVE RECALL](https://www.youtube.com/watch?v=We5WM-tg_mE)
 - [How I Study For Exams in Medical School Active Recall Study Strategies](https://www.youtube.com/watch?v=YhvZqXLBH_o)
 
-# Space repetition [Source](https://youtu.be/Z-zNHHpXoMM)
+# Space repetition 
  <img src="https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png" alt="Smiley face" height="300" width="500"> 
   <img src="https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/ebbinghaus-diagram.jpg" alt="Smiley face" height="300" width="500"> 
    <img src="https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/Alteration-of-the-forgetting-curve-through-repetition-according-to-Ebbinghaus-1885-and.png" alt="Smiley face" height="300" width="500"> 
@@ -31,6 +31,10 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
    - Space repetition is the idea that spacing your active recall sessions your brain will implant that memories in the long-term memory side of your brain. A simple way to do it is to give two or three days distance between each topic and then try to answer again to the same questions you answered on day one.
    - ***Longer delay between initial learning and recalling facts was associated with poorer retention rate.***
    - ***In a final test 1 week later, the group that learned at expanding time intervals performed significantly better than the group learning with steady intervals***  
+   
+#### References
+- [The Most Powerful Way to Remember What You Study](https://www.youtube.com/watch?v=eVajQPuRmk8)
+- [Space repetition](https://youtu.be/Z-zNHHpXoMM)
    
 # Revision
 - [My Study Method + Revision Tools - Cambridge junior doctor](https://www.youtube.com/watch?v=EfBczKGbGwA)
