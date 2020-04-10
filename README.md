@@ -2,7 +2,7 @@
 ## Active recall planner [download](https://github.com/SuperMarioOfficial/active-recall-planner)
 This app is supported by me, for any advice please contact me on [twitter](https://twitter.com/SuperMarioSecOp). 
 
-## Active recall 
+# Active recall 
 The recall method is the method of training your brain to retrieve informations from your memory in the most efficient way.  
 Active recall is the idea to force your brain to recall some piece of information effictevely. More often the brain is forced to recall something during the time, stronger it will be the link to that piece of information. In a certain way it can be compared to what backpropagation is in deep-learning. Therefore, writing down questions and answering them later on force your brain to remember them. 
   
@@ -22,7 +22,7 @@ All previous methods can be used to create cards to answer them.
 - [How I Study at Cambridge University | ACTIVE RECALL](https://www.youtube.com/watch?v=We5WM-tg_mE)
 - [How I Study For Exams in Medical School Active Recall Study Strategies](https://www.youtube.com/watch?v=YhvZqXLBH_o)
 
-## Space repetition [Source](https://youtu.be/Z-zNHHpXoMM)
+# Space repetition [Source](https://youtu.be/Z-zNHHpXoMM)
  <img src="https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png" alt="Smiley face" height="300" width="500"> 
   <img src="https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/ebbinghaus-diagram.jpg" alt="Smiley face" height="300" width="500"> 
    <img src="https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/Alteration-of-the-forgetting-curve-through-repetition-according-to-Ebbinghaus-1885-and.png" alt="Smiley face" height="300" width="500"> 
@@ -31,15 +31,15 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
    - Space repetition is the idea that spacing your active recall sessions your brain will implant that memories in the long-term memory side of your brain. A simple way to do it is to give two or three days distance between each topic and then try to answer again to the same questions you answered on day one.
    - ***Longer delay between initial learning and recalling facts was associated with poorer retention rate.***
    - ***In a final test 1 week later, the group that learned at expanding time intervals performed significantly better than the group learning with steady intervals***  
-    
-## Revision
+   
+# Revision
 - [My Study Method + Revision Tools - Cambridge junior doctor](https://www.youtube.com/watch?v=EfBczKGbGwA)
-- [How To Revise | Scientifically Proven Revision Techniques (for English, History, Law and more)](https://www.youtube.com/watch?v=xTkpr5bkzPw)
-
-## Reading 
+- [How To Revise | Scientifically Proven Revision Techniques (for English, History, Law and more)](https://www.youtube.com/watch?v=xTkpr5bkzPw)  
+   
+# Reading 
 - [10 Active Reading Strategies // Study Less Study Smart](https://www.youtube.com/watch?v=5j8H3F8EMNI)
 
-## How to write Notes 
+# Write Notes 
 ![](https://62e528761d0685343e1c-f3d1b99a743ffa4142d9d7f1978d9686.ssl.cf2.rackcdn.com/files/82315/width668/image-20150520-30501-xrg6gx.png)
 - [Cornell Note Taking System](https://www.youtube.com/watch?v=xCCWQkJbtyY)
 - [How better note taking can improve your memory](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
@@ -51,7 +51,7 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 - [The Best Digital Note Taking Tablet for Students? | The reMarkable Review](https://www.youtube.com/watch?v=_BRSmj-yQAM)
 - [whats-the-most-effective-way-to-take-notes]([Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/))
 
-## The Algorithm
+ The Algorithm
 - ***scoping the subject***: syllabus -> slides -> book chapters
   - writing down all words and topic that you do not know the meaning
   - writing down questions about the subject on a piece of paper Cornell style [link 1](https://youtu.be/fDbxPVn02VU?t=38), [link 2](https://www.youtube.com/watch?v=iIyDJK_SAjs&t=268s)
