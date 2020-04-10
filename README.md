@@ -1,4 +1,4 @@
-# A scientific method to improve your studying efficiency [Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
+# A scientific method to improve your studying efficiency
 ## Active recall planner [download](https://github.com/SuperMarioOfficial/active-recall-planner)
 This app is supported by me, for any advice please contact me on [twitter](https://twitter.com/SuperMarioSecOp). 
 
@@ -22,8 +22,7 @@ All previous methods can be used to create cards to answer them.
 - [How I Study at Cambridge University | ACTIVE RECALL](https://www.youtube.com/watch?v=We5WM-tg_mE)
 - [How I Study For Exams in Medical School Active Recall Study Strategies](https://www.youtube.com/watch?v=YhvZqXLBH_o)
 
-## Space repetition 
-#### [Source](https://youtu.be/Z-zNHHpXoMM)
+## Space repetition [Source](https://youtu.be/Z-zNHHpXoMM)
  <img src="https://assets.weforum.org/wp-content/uploads/2015/05/image-20150520-30533-1l7kaev.png" alt="Smiley face" height="300" width="500"> 
   <img src="https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/ebbinghaus-diagram.jpg" alt="Smiley face" height="300" width="500"> 
    <img src="https://raw.githubusercontent.com/SuperMarioOfficial/how-to-study-more-effectively/master/Alteration-of-the-forgetting-curve-through-repetition-according-to-Ebbinghaus-1885-and.png" alt="Smiley face" height="300" width="500"> 
@@ -32,7 +31,6 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
    - Space repetition is the idea that spacing your active recall sessions your brain will implant that memories in the long-term memory side of your brain. A simple way to do it is to give two or three days distance between each topic and then try to answer again to the same questions you answered on day one.
    - ***Longer delay between initial learning and recalling facts was associated with poorer retention rate.***
    - ***In a final test 1 week later, the group that learned at expanding time intervals performed significantly better than the group learning with steady intervals***  
-   
     
 ## Revision
 - [My Study Method + Revision Tools - Cambridge junior doctor](https://www.youtube.com/watch?v=EfBczKGbGwA)
@@ -51,22 +49,7 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 - [The Cornell Note-taking System(questions+bullet points answers)](http://lsc.cornell.edu/study-skills/cornell-note-taking-system/)
 - [Write questions rather than notes](https://www.youtube.com/watch?v=fDbxPVn02VU&t=49s)
 - [The Best Digital Note Taking Tablet for Students? | The reMarkable Review](https://www.youtube.com/watch?v=_BRSmj-yQAM)
-
-## Scientific papers, articles and books on the subject
-- [1939-spitzer](https://www.gwern.net/docs/spacedrepetition/1939-spitzer.pdf)
-- [Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping](https://science.sciencemag.org/content/331/6018/772.full)
-- [Science Brief - A powerful way to improve learning and memory](https://www.apa.org/science/about/psa/2016/06/learning-memory)
-- [Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology.](https://www.ncbi.nlm.nih.gov/pubmed/26173288)
-- [Make-Stick-Science-Successful-Learning](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013)
-- [Effective Study Techniques](https://www.otago.ac.nz/hedc/otago615340.pdf)
-- [THE JOURNAL OFEDUCATIONAL PSYCHOLOGY VolumeXXXDecember, 1939 Number 9 STUDIES IN RETENTION](https://www.gwern.net/docs/spacedrepetition/1939-spitzer.pdf)
-- [Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology.](https://www.ncbi.nlm.nih.gov/pubmed/26173288)
-- [A powerful way to improve learning and memory](https://www.apa.org/science/about/psa/2016/06/learning-memory)
-- [Test-Enhanced LearningTaking Memory Tests Improves Long-Term Retention](http://learninglab.psych.purdue.edu/downloads/2006_Roediger_Karpicke_PsychSci.pdf)
-- [Test-Enhanced Learning in the Classroom:Long-Term Improvements From Quizzing](https://pages.wustl.edu/files/pages/imce/memory/roediger-et-al-2011-jepa.pdf)
-- [The Value of Applied Research: Retrieval Practice Improves Classroom Learning and Recommendations from a Teacher, a Principal, and a Scientist](https://link.springer.com/article/10.1007/s10648-012-9210-2?shared-article-renderer)
-## Podcasts
-- [podcast-385-make-stick](https://www.artofmanliness.com/articles/podcast-385-make-stick/)
+- [whats-the-most-effective-way-to-take-notes]([Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/))
 
 ## The Algorithm
 - ***scoping the subject***: syllabus -> slides -> book chapters
@@ -99,10 +82,8 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
  - ***revision***
    - start from the last chapter and move backwards 
    - write down on a paper or excel file each topic you are not familiar with 
-## Figures
-![](https://www.apa.org/images/2016-06-psa-karpicke-fig1_tcm7-203616_w1024_n.jpg)
 
-# General study tips videos
+## General study tips
 - [3 LIES Students Believe (That Hold Them Back)](https://www.youtube.com/watch?v=d7Ot9wPYuQw)
 - [Why Advice is Holding You Back](https://www.youtube.com/watch?v=3VGFN1uVwQs)
 - [PERSONALITY-based Study Tips | Tools for Better Grades](https://www.youtube.com/watch?v=H4rhSvqPM3s)
@@ -116,3 +97,21 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 - [POMODORO TECHNIQUE - My Favorite Tool to Improve Studying and Productivity](https://www.youtube.com/watch?v=mNBmG24djoY)
 - [Finals Week! - 6 Study Tips & Tricks](https://www.youtube.com/watch?v=a9FduCpUhoI)
 - [Learn Anything in Four Steps With the Feynman Technique](https://curiosity.com/topics/learn-anything-in-four-steps-with-the-feynman-technique-curiosity/)
+
+## Figures
+![](https://www.apa.org/images/2016-06-psa-karpicke-fig1_tcm7-203616_w1024_n.jpg)
+
+## Reference
+- [1939-spitzer](https://www.gwern.net/docs/spacedrepetition/1939-spitzer.pdf)
+- [Retrieval Practice Produces More Learning than Elaborative Studying with Concept Mapping](https://science.sciencemag.org/content/331/6018/772.full)
+- [Science Brief - A powerful way to improve learning and memory](https://www.apa.org/science/about/psa/2016/06/learning-memory)
+- [Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology.](https://www.ncbi.nlm.nih.gov/pubmed/26173288)
+- [Make-Stick-Science-Successful-Learning](https://www.amazon.com/Make-Stick-Science-Successful-Learning/dp/0674729013)
+- [Effective Study Techniques](https://www.otago.ac.nz/hedc/otago615340.pdf)
+- [THE JOURNAL OFEDUCATIONAL PSYCHOLOGY VolumeXXXDecember, 1939 Number 9 STUDIES IN RETENTION](https://www.gwern.net/docs/spacedrepetition/1939-spitzer.pdf)
+- [Improving Students' Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology.](https://www.ncbi.nlm.nih.gov/pubmed/26173288)
+- [A powerful way to improve learning and memory](https://www.apa.org/science/about/psa/2016/06/learning-memory)
+- [Test-Enhanced LearningTaking Memory Tests Improves Long-Term Retention](http://learninglab.psych.purdue.edu/downloads/2006_Roediger_Karpicke_PsychSci.pdf)
+- [Test-Enhanced Learning in the Classroom:Long-Term Improvements From Quizzing](https://pages.wustl.edu/files/pages/imce/memory/roediger-et-al-2011-jepa.pdf)
+- [The Value of Applied Research: Retrieval Practice Improves Classroom Learning and Recommendations from a Teacher, a Principal, and a Scientist](https://link.springer.com/article/10.1007/s10648-012-9210-2?shared-article-renderer)
+- [podcast 385 make stick](https://www.artofmanliness.com/articles/podcast-385-make-stick/)
