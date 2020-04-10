@@ -51,7 +51,7 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 - [The Best Digital Note Taking Tablet for Students? | The reMarkable Review](https://www.youtube.com/watch?v=_BRSmj-yQAM)
 - [whats-the-most-effective-way-to-take-notes]([Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/))
 
- The Algorithm
+ # Study Algorithm
 - ***scoping the subject***: syllabus -> slides -> book chapters
   - writing down all words and topic that you do not know the meaning
   - writing down questions about the subject on a piece of paper Cornell style [link 1](https://youtu.be/fDbxPVn02VU?t=38), [link 2](https://www.youtube.com/watch?v=iIyDJK_SAjs&t=268s)
