@@ -1,4 +1,7 @@
 # Scientific ideas how to improve your efficiency in studying [Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
+## Active recall planner [download](https://github.com/SuperMarioOfficial/active-recall-planner)
+This app is supported by me, for any advice please contact me on [twitter](https://twitter.com/SuperMarioSecOp). 
+
 ## Active recall 
 The recall method is the method of training your brain to retrieve informations from your memory in the most efficient way.  
 Active recall is the idea to force your brain to recall some piece of information effictevely. More often the brain is forced to recall something during the time, stronger it will be the link to that piece of information. In a certain way it can be compared to what backpropagation is in deep-learning. Therefore, writing down questions and answering them later on force your brain to remember them. 
@@ -91,7 +94,7 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
         - [b1r] -> [Break 15 min] -> [b1e]  -> [Break 45 m] -> [explain each topic to "people"]
    
    - at the end of each new evening spend 10 minute thinking about what you learned that day.
-   - [download]() my planner app developped by me.
+   
 
  - ***revision***
    - start from the last chapter and move backwards 
