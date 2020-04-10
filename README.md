@@ -1,4 +1,4 @@
-# Scientific ideas how to improve your efficiency in studying [Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
+# A scientific method to improve your studying efficiency [Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/)
 ## Active recall planner [download](https://github.com/SuperMarioOfficial/active-recall-planner)
 This app is supported by me, for any advice please contact me on [twitter](https://twitter.com/SuperMarioSecOp). 
 
