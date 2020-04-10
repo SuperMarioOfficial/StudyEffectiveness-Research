@@ -52,7 +52,8 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
 - [whats-the-most-effective-way-to-take-notes]([Source](https://www.weforum.org/agenda/2015/05/whats-the-most-effective-way-to-take-notes/))
 
  # Study Algorithm
-- ***scoping the subject***: syllabus -> slides -> book chapters
+- ***scoping the subject/topic***: syllabus -> slides -> book chapters 
+  - this ***should not*** take more than 1 hour or done the day beofre the starting of the study-spring
   - writing down all words and topic that you do not know the meaning
   - writing down questions about the subject on a piece of paper Cornell style [link 1](https://youtu.be/fDbxPVn02VU?t=38), [link 2](https://www.youtube.com/watch?v=iIyDJK_SAjs&t=268s)
     - usually at the end of the chapters there are a set of questions
