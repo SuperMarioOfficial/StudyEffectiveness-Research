@@ -34,7 +34,7 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
    
 #### References
 - [The Most Powerful Way to Remember What You Study](https://www.youtube.com/watch?v=eVajQPuRmk8)
-- [Space repetition](https://youtu.be/Z-zNHHpXoMM)
+- [How to Study for Exams - Spaced Repetition | Evidence-based revision tips](https://youtu.be/Z-zNHHpXoMM)
    
 # Revision
 - [My Study Method + Revision Tools - Cambridge junior doctor](https://www.youtube.com/watch?v=EfBczKGbGwA)
