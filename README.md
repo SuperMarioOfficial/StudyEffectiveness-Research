@@ -98,3 +98,18 @@ The rate of forgetting is minimised if students interact (re-read/discuss/write/
    - write down on a paper or excel file each topic you are not familiar with 
 ## Figures
 ![](https://www.apa.org/images/2016-06-psa-karpicke-fig1_tcm7-203616_w1024_n.jpg)
+
+# General study tips videos
+- [3 LIES Students Believe (That Hold Them Back)](https://www.youtube.com/watch?v=d7Ot9wPYuQw)
+- [Why Advice is Holding You Back](https://www.youtube.com/watch?v=3VGFN1uVwQs)
+- [PERSONALITY-based Study Tips | Tools for Better Grades](https://www.youtube.com/watch?v=H4rhSvqPM3s)
+- [Study Techniques - The Good, Bad, & Useless](https://www.youtube.com/watch?v=w1cX89XgqUM)
+- [YOU'RE STUDYING WRONG - Here's Why](https://www.youtube.com/watch?v=5-RERVb3K2U)
+- [How to Stay Focused While Studying | Medical School Secrets](https://www.youtube.com/watch?v=Ev54RJdjOkU)
+- [Procrastination – 7 Steps to Cure](https://www.youtube.com/watch?v=irp5ghCVNAM)
+- [How to Study Effectively and Efficiency as a Pre-Med and Medical Student](https://www.youtube.com/watch?v=pL71FE-JYzk)
+- [Stop Procrastinating and Be Productive - How to Study When You Don't Want To](https://www.youtube.com/watch?v=RFMgQshwGZE)
+- [Pre-Med Study Strategies - What I Wish I Knew in College (Tips from Medical School)](https://www.youtube.com/watch?v=1JqFJdptTto)
+- [POMODORO TECHNIQUE - My Favorite Tool to Improve Studying and Productivity](https://www.youtube.com/watch?v=mNBmG24djoY)
+- [Finals Week! - 6 Study Tips & Tricks](https://www.youtube.com/watch?v=a9FduCpUhoI)
+- [Learn Anything in Four Steps With the Feynman Technique](https://curiosity.com/topics/learn-anything-in-four-steps-with-the-feynman-technique-curiosity/)
